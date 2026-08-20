@@ -91,10 +91,10 @@
       ],
       "you_shared": false,
       "km": 1.55,
-      "contacted": false,
-      "contacted_at": "",
+      "contacted": true,
+      "contacted_at": "2026-08-20T15:30",
       "quoted_amount": "",
-      "what_they_said": "",
+      "what_they_said": "no rooms available on 29th to 30",
       "notes": "",
       "status": "new",
       "added_by_user": false,
@@ -764,5 +764,5 @@
       "aka": []
     }
   ],
-  "updated_at": "2026-08-20T08:08:22.205Z"
+  "updated_at": "2026-08-20T10:01:39.177Z"
 }
