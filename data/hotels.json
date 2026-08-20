@@ -226,9 +226,9 @@
       "contacted": false,
       "contacted_at": "",
       "quoted_amount": "",
-      "what_they_said": "",
+      "what_they_said": "no rooms on 29th",
       "notes": "",
-      "status": "new",
+      "status": "skip",
       "added_by_user": false,
       "id": "treebo-premium-pine-tree-courtyard",
       "aka": []
@@ -764,5 +764,5 @@
       "aka": []
     }
   ],
-  "updated_at": "2026-08-20T10:02:09.256Z"
+  "updated_at": "2026-08-20T10:06:03.341Z"
 }
