@@ -323,7 +323,7 @@
       "contacted_at": "",
       "quoted_amount": "",
       "what_they_said": "",
-      "notes": "",
+      "notes": "Not attended the phoe call",
       "status": "new",
       "added_by_user": false,
       "id": "afrah-guest-house-east-kavangarai",
@@ -764,5 +764,5 @@
       "aka": []
     }
   ],
-  "updated_at": "2026-08-20T10:06:03.341Z"
+  "updated_at": "2026-08-20T10:08:41.924Z"
 }
