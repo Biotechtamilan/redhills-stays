@@ -59,11 +59,11 @@
       ],
       "you_shared": true,
       "km": 1.01,
-      "contacted": false,
-      "contacted_at": "",
-      "quoted_amount": "",
-      "what_they_said": "",
-      "notes": "",
+      "contacted": true,
+      "contacted_at": "2026-08-20T13:36",
+      "quoted_amount": "2500",
+      "what_they_said": "They mentioned we can negotiate the price, for photos we need to check with the whatsapp catalogue (they have in that)",
+      "notes": "polite response",
       "status": "new",
       "added_by_user": false,
       "id": "pn-stays",
@@ -763,5 +763,6 @@
       "id": "abi-comfort-inn",
       "aka": []
     }
-  ]
+  ],
+  "updated_at": "2026-08-20T08:08:22.205Z"
 }
