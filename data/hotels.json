@@ -96,7 +96,7 @@
       "quoted_amount": "",
       "what_they_said": "no rooms available on 29th to 30",
       "notes": "",
-      "status": "new",
+      "status": "skip",
       "added_by_user": false,
       "aka": [
         "OYO 73306 S.a.p Guest House"
@@ -764,5 +764,5 @@
       "aka": []
     }
   ],
-  "updated_at": "2026-08-20T10:01:55.824Z"
+  "updated_at": "2026-08-20T10:02:09.256Z"
 }
