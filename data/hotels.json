@@ -593,12 +593,12 @@
       ],
       "you_shared": false,
       "km": 5.67,
-      "contacted": false,
-      "contacted_at": "",
-      "quoted_amount": "",
-      "what_they_said": "",
+      "contacted": true,
+      "contacted_at": "2026-08-21T15:27",
+      "quoted_amount": "3100₹",
+      "what_they_said": "Max 3 persons can stay in a single room ",
       "notes": "",
-      "status": "new",
+      "status": "contacted",
       "added_by_user": false,
       "id": "gb-residency",
       "aka": []
@@ -764,5 +764,5 @@
       "aka": []
     }
   ],
-  "updated_at": "2026-08-20T10:08:41.924Z"
+  "updated_at": "2026-08-21T09:57:39.999Z"
 }
